@@ -34,7 +34,7 @@ Here's an overview of icons that already ship with the theme.
     </tr>
     <tr>
       <td>Social</td>
-      <td>{% include svg/facebook.svg %} {% include svg/twitter.svg %} {% include svg/instagram.svg %} {% include svg/linkedin.svg %} {% include svg/blog.svg %} {% include svg/google-circled.svg %}</td>
+      <td>{% include svg/facebook.svg %} {% include svg/twitter.svg %} {% include svg/instagram.svg %} {% include svg/linkedin.svg %} {% include svg/internet.svg %} {% include svg/google-circled.svg %}</td>
     </tr>
     <tr>
       <td>Git</td>
