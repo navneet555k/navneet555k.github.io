@@ -7,7 +7,7 @@ title: Home
 
 Welcome to my landing page!
 
-I am a Computer Science graduate from the esteemed 2023 batch, passionate about leveraging technology to solve complex problems. With a strong foundation in data structures, algorithms, and problem-solving, I strive to create innovative solutions that make a real impact.
+I am a Computer Science graduate of 2023 batch, passionate about leveraging technology to solve complex problems. With a strong foundation in data structures, algorithms, and problem-solving, I strive to create innovative solutions that make a real impact.
 
 My love for subjects like Operating Systems, Computer Networks, Database Management Systems, and Object-Oriented Programming has allowed me to develop a deep understanding of how different components of computer systems work together seamlessly.
 
